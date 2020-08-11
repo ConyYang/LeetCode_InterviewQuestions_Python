@@ -59,20 +59,45 @@ class BinarySearchTree(object):
             return cur_height
         else:
             # compare left and right to see which is taller
-            left_height = self._height(cur_node.left, cur_height+1)
-            right_height = self._height(cur_node.right, cur_height+1)
+            left_height = self._height(cur_node.left, cur_height + 1)
+            right_height = self._height(cur_node.right, cur_height + 1)
             return max(left_height, right_height)
 
-def fill_tree_random(tree, num_elements=10, max_int=50):
+    def search(self, value):
+        if self.root is not None:
+            return self._search(value, self.root)
+        else:
+            return False
+
+    def _search(self, value, cur_node):
+        if value == cur_node.value:
+            return True
+        elif value < cur_node.value and cur_node.left:
+            return self._search(value, cur_node.left)
+        elif value > cur_node.value and cur_node.right:
+            return self._search(value, cur_node.right)
+        return False
+
+
+def fill_tree_random(userTree, num_elements=10, max_int=50):
     for _ in range(num_elements):
         cur_element = randint(0, max_int)
-        tree.insert(cur_element)
-    return tree
+        userTree.insert(cur_element)
+    return userTree
 
+
+def fill_tree_userDefine(userTree, userArray):
+    for arr in userArray:
+        userTree.insert(arr)
+    return userTree
 
 
 tree = BinarySearchTree()
-tree = fill_tree_random(tree)
+# tree = fill_tree_random(tree)
+tree = fill_tree_userDefine(tree, [2, 34, 5, 32, 10, 0, 9, 4])
 tree.printTree(tree.root)
 tree.print_tree()
+
 print("Height is " + str(tree.height()))
+value = 10
+print("Can found " + str(value) + " is " + str(tree.search(10)))
