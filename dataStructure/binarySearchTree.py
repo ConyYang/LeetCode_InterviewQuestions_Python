@@ -24,13 +24,13 @@ class BinarySearchTree(object):
                 cur_node.left = Node(value)
             else:
                 self._insert(value, cur_node.left)
-        elif value > cur_node.value:
+        elif value >= cur_node.value:
             if cur_node.right is None:
                 cur_node.right = Node(value)
             else:
                 self._insert(value, cur_node.right)
-        else:
-            print("Value already exists!")
+        # else:
+        #     print("Value already exists!")
 
     def print_tree(self):
         if self.root is not None:
@@ -94,7 +94,7 @@ def fill_tree_userDefine(userTree, userArray):
 
 tree = BinarySearchTree()
 # tree = fill_tree_random(tree)
-tree = fill_tree_userDefine(tree, [2, 34, 5, 32, 10, 0, 9, 4])
+tree = fill_tree_userDefine(tree, [1, 2, 2])
 tree.printTree(tree.root)
 tree.print_tree()
 
