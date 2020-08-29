@@ -26,26 +26,30 @@
 [167] [Two Sum Sorted Array](LeetCodeEasy/167TwoSumSortedArray.py)<br/>
 [168] [Excel Sheet Column](LeetCodeEasy/168ExcelSheetColumn.py)<br/>
 [169] [Majority Element](LeetCodeEasy/169MajorityElement.py)<br/>
-[172] [Factorial Trailing Zeros](LeetCodeEasy/172FactorialTrailingZeros.py)
+[172] [Factorial Trailing Zeros](LeetCodeEasy/172FactorialTrailingZeros.py)<br/>
+[189] [Rotate Array](LeetCodeEasy/189RotateArray.py)
 
 ### 2. LinkedList
-[83] [Remove Duplicates from sorted list](LeetCodeEasy/LinkedList/83RemoveDuplicatesSortedList.py)<br/>
-[160] [Intersection Of Two Linked List](LeetCodeEasy/LinkedList/160IntersectionOfTwoLinkedList.py)<br/>
+[83] [Remove Duplicates from sorted list](LinkedList/83RemoveDuplicatesSortedList.py)<br/>
+[160] [Intersection Of Two Linked List](LinkedList/160IntersectionOfTwoLinkedList.py)<br/>
 
 ### 3. Binary Tree
-[100] [Same Tree](LeetCodeEasy/BinaryTree/100SameTree.py)<br/>
-[101] [Symmetric Tree](LeetCodeEasy/BinaryTree/101SymmetricTree.py)<br/>
-[104] [Maximum Depth of Binary Tree](LeetCodeEasy/BinaryTree/104MaxDepthOfBST.py)<br/>
-[107] [Binary Tree Level Order TraversalII](LeetCodeEasy/BinaryTree/107BinaryTreeLevelOrderTraversal.py)<br/>
-[108] [Convert Sorted Array To BST](LeetCodeEasy/BinaryTree/108ConvertSortedArray.py)<br/>
-[110] [Balanced Binary Tree](LeetCodeEasy/BinaryTree/110BalancedBinaryTree.py)<br/>
-[111] [Minimum Depth of Binary Tree](LeetCodeEasy/BinaryTree/111MinimumDepthBinaryTree.py)<br/>
-[112] [Path Sum](LeetCodeEasy/BinaryTree/112PathSum.py)<br/>
+[98] [Validate Binary Search Tree](BinaryTree/98ValidateBinarySearchTree.py)<br/>
+[100] [Same Tree](BinaryTree/100SameTree.py)<br/>
+[101] [Symmetric Tree](BinaryTree/101SymmetricTree.py)<br/>
+[104] [Maximum Depth of Binary Tree](BinaryTree/104MaxDepthOfBST.py)<br/>
+[107] [Binary Tree Level Order TraversalII](BinaryTree/107BinaryTreeLevelOrderTraversal.py)<br/>
+[108] [Convert Sorted Array To BST](BinaryTree/108ConvertSortedArray.py)<br/>
+[110] [Balanced Binary Tree](BinaryTree/110BalancedBinaryTree.py)<br/>
+[111] [Minimum Depth of Binary Tree](BinaryTree/111MinimumDepthBinaryTree.py)<br/>
+[112] [Path Sum](BinaryTree/112PathSum.py)<br/>
+[113] [Path Sum II](BinaryTree/113PathSumII.py)<br/>
+
 
 ### 4. Illustration
 #### - Data Structure
    - [Linked List](dataStructure/linkedList.py)
    - [Binary Search Tree](dataStructure/binarySearchTree.py)
 #### - SQL commands
-   - [A summary of useful commands]()
+   - [A summary of useful commands](SQL)
 

@@ -1,3 +1,3 @@
-string_a = "1011"
-reverse_a = string_a[::-1]
-print(reverse_a)
+a = [1, 2, 3]
+a += [1]
+print(a)
