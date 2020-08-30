@@ -45,11 +45,18 @@
 [112] [Path Sum](BinaryTree/112PathSum.py)<br/>
 [113] [Path Sum II](BinaryTree/113PathSumII.py)<br/>
 
+### 4. Binary Search
+[540] [Single Element in a Sorted Array](BinarySearch/540SingleElementInASortedArray.py)<br/>
 
-### 4. Illustration
+### 5. Illustration
 #### - Data Structure
    - [Linked List](dataStructure/linkedList.py)
+   - [Double Linked List](dataStructure/doubleLinkedLIst.py)
    - [Binary Search Tree](dataStructure/binarySearchTree.py)
+   - [Stack](LeetCodeEasy/155MinStack.py)
+   - [queue](dataStructure/queue.py)
+   
 #### - SQL commands
    - [A summary of useful commands](SQL)
+
 
