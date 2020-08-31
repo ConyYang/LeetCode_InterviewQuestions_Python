@@ -48,7 +48,11 @@
 ### 4. Binary Search
 [540] [Single Element in a Sorted Array](BinarySearch/540SingleElementInASortedArray.py)<br/>
 
-### 5. Illustration
+### 5. Search
+[17] [Letter Combination of phone number](Search/17LetterCombinationOfPhoneNumber.py)<br/>
+[39] [Combination Sum](Search/39CombinationSum.py)
+
+### 6. Illustration
 #### - Data Structure
    - [Linked List](dataStructure/linkedList.py)
    - [Double Linked List](dataStructure/doubleLinkedLIst.py)
