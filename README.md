@@ -32,7 +32,7 @@
 ### 2. LinkedList
 [83] [Remove Duplicates from sorted list](LinkedList/83RemoveDuplicatesSortedList.py)<br/>
 [160] [Intersection Of Two Linked List](LinkedList/160IntersectionOfTwoLinkedList.py)<br/>
-
+[206] [Reversed Linked List](LinkedList/206ReverseLinkedList.py)
 ### 3. Binary Tree
 [98] [Validate Binary Search Tree](BinaryTree/98ValidateBinarySearchTree.py)<br/>
 [100] [Same Tree](BinaryTree/100SameTree.py)<br/>
