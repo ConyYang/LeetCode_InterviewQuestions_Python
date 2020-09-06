@@ -28,6 +28,7 @@
 [169] [Majority Element](LeetCodeEasy/169MajorityElement.py)<br/>
 [172] [Factorial Trailing Zeros](LeetCodeEasy/172FactorialTrailingZeros.py)<br/>
 [189] [Rotate Array](LeetCodeEasy/189RotateArray.py)
+[283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)
 
 ### 2. LinkedList
 [24] [SwapNodesInPairs](LinkedList/24SwpNodesInPairs.py)<br/>
