@@ -28,12 +28,17 @@
 [169] [Majority Element](LeetCodeEasy/169MajorityElement.py)<br/>
 [172] [Factorial Trailing Zeros](LeetCodeEasy/172FactorialTrailingZeros.py)<br/>
 [189] [Rotate Array](LeetCodeEasy/189RotateArray.py)<br/>
+[263] [Ugly Numbers](LeetCodeEasy/263UglyNumber.py)<br/>
 [283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)<br/>
+[342] [Power Of Four](LeetCodeEasy/342PowerOfFour.py)<br/>
+[349] [Intersection of Two Arrays](LeetCodeEasy/349IntersectionOfTwoArrays.py)<br/>
+[912] [Sort An array](LeetCodeEasy/912SortAnArray.py)<br/>
 
 ### 🤪 2. LinkedList
 [21] [Merge Two Sorted List](LinkedList/21MergeTwoSortedList.py)<br/>
 [24] [SwapNodesInPairs](LinkedList/24SwpNodesInPairs.py)<br/>
 [83] [Remove Duplicates from sorted list](LinkedList/83RemoveDuplicatesSortedList.py)<br/>
+[148] [Sort List](LinkedList/148SortList.py)</br>
 [160] [Intersection Of Two Linked List](LinkedList/160IntersectionOfTwoLinkedList.py)<br/>
 [203] [Remove Linked List Elements](LinkedList/203RemoveLinkedListElements.py)<br/>
 [206] [Reversed Linked List](LinkedList/206ReverseLinkedList.py)</br>
@@ -50,26 +55,30 @@
 [112] [Path Sum](BinaryTree/112PathSum.py)<br/>
 [113] [Path Sum II](BinaryTree/113PathSumII.py)<br/>
 
-### 🤪 4. Binary Search
-[540] [Single Element in a Sorted Array](BinarySearch/540SingleElementInASortedArray.py)<br/>
-
-### 🤪 5. Search
+### 🤪 4. Search
 [17] [Letter Combination of phone number](Search/17LetterCombinationOfPhoneNumber.py)<br/>
-[39] [Combination Sum](Search/39CombinationSum.py)</br>
-[200] [NumberOfIslands](Search/200NumberOfIslands.py)</br>
+[39] [Combination Sum](Search/39CombinationSum.py)<br/>
+[200] [NumberOfIslands](Search/200NumberOfIslands.py)<br/>
+[540] [Single Elements In A sorted Array](Search/540SingleElementInASortedArray.py)<br/>
+[704] [Binary Search](Search/704BinarySearch.py)<br/>
 
-### 🤪 6. Dynamic Programming
+### 🤪 5. Dynamic Programming
 [5] [Longest Palindromic Substring](DynamicProgramming/5LongestPalindromicSubstring.py)<br/>
-[198] [House Robber](DynamicProgramming/198HouseRobber.py)
+[198] [House Robber](DynamicProgramming/198HouseRobber.py)<br/>
  
-### 🤪 7. Illustration
+### 🤪 6. Illustration
 #### - Data Structure
    - [Linked List](dataStructure/linkedList.py)
    - [Double Linked List](dataStructure/doubleLinkedLIst.py)
    - [Binary Search Tree](dataStructure/binarySearchTree.py)
    - [Stack](LeetCodeEasy/155MinStack.py)
    - [queue](dataStructure/queue.py)
-   
+#### - Classical Search
+   - [Insertion Sort](ClassicalSort/InsertionSort.py)
+   - [Bubble Sort](ClassicalSort/BubbleSort.py)
+   - [Selection Sort](ClassicalSort/SelectionSort.py)
+   - [Merge Sort](ClassicalSort/MergeSort.py)
+   - [Quick Sort](ClassicalSort/QuickSort.py)
 #### - SQL commands
    - [A summary of useful commands](SQL)
 
