@@ -28,9 +28,10 @@
 [169] [Majority Element](LeetCodeEasy/169MajorityElement.py)<br/>
 [172] [Factorial Trailing Zeros](LeetCodeEasy/172FactorialTrailingZeros.py)<br/>
 [189] [Rotate Array](LeetCodeEasy/189RotateArray.py)<br/>
-[326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
+[204] [Count Primes](LeetCodeEasy/204CountPrimes.py)<br/>
 [263] [Ugly Numbers](LeetCodeEasy/263UglyNumber.py)<br/>
 [283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)<br/>
+[326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
 [342] [Power Of Four](LeetCodeEasy/342PowerOfFour.py)<br/>
 [344] [Reverse String](LeetCodeEasy/344RevserString.py)<br/>
 [349] [Intersection of Two Arrays](LeetCodeEasy/349IntersectionOfTwoArrays.py)<br/>
@@ -69,6 +70,10 @@
 [111] [Minimum Depth of Binary Tree](BinaryTree/111MinimumDepthBinaryTree.py)<br/>
 [112] [Path Sum](BinaryTree/112PathSum.py)<br/>
 [113] [Path Sum II](BinaryTree/113PathSumII.py)<br/>
+[226] [Invert Binary Tree](BinaryTree/226InvertBinaryTree.py)<br/>
+[965] [UnivaluedBinaryTree]( BinaryTree/226InvertBinaryTree.py)<br/>
+
+
 
 ### 🤪 5. Search
 [17] [Letter Combination of phone number](Search/17LetterCombinationOfPhoneNumber.py)<br/>
