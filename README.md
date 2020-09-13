@@ -29,6 +29,9 @@
 [172] [Factorial Trailing Zeros](LeetCodeEasy/172FactorialTrailingZeros.py)<br/>
 [189] [Rotate Array](LeetCodeEasy/189RotateArray.py)<br/>
 [204] [Count Primes](LeetCodeEasy/204CountPrimes.py)<br/>
+[205] [IsomorphicStrings](LeetCodeEasy/205IsomorphicStrings.py)<br/>
+[217] [Contains Duplicates](LeetCodeEasy/217ContainsDuplicates.py)<br/>
+[234] [PalindromeLinkedList](LeetCodeEasy/234PalindromeLinkedList.py)</br>
 [263] [Ugly Numbers](LeetCodeEasy/263UglyNumber.py)<br/>
 [283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)<br/>
 [326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
