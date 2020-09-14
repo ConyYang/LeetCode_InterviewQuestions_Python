@@ -1,4 +1,11 @@
 # LeetCode_InterviewQuestions
+### Here are some videos I made...
+#### Youtube
+[876 Middle Of Linked List](https://www.youtube.com/watch?v=lOb8Ylf_-0c)
+[344 Reverse String](https://www.youtube.com/watch?v=aZgcX9oGBXM&t=27s)
+#### Bilibili
+[876 Middle Of Linked List](https://www.bilibili.com/video/BV1sv411C7Gk/)
+[344 Reverse String](https://www.bilibili.com/video/BV1zv41117TK/)
 
 ### 🤪 1.Normal Easy questions<br/>
 [1] [TwoSum](LeetCodeEasy/1TwoSum.py)<br/>
@@ -31,7 +38,8 @@
 [204] [Count Primes](LeetCodeEasy/204CountPrimes.py)<br/>
 [205] [IsomorphicStrings](LeetCodeEasy/205IsomorphicStrings.py)<br/>
 [217] [Contains Duplicates](LeetCodeEasy/217ContainsDuplicates.py)<br/>
-[234] [PalindromeLinkedList](LeetCodeEasy/234PalindromeLinkedList.py)</br>
+[231] [Power of Two](LeetCodeEasy/231PowerOfTwo.py)<br/>
+[234] [PalindromeLinkedList](LeetCodeEasy/234PalindromeLinkedList.py)<br/>
 [263] [Ugly Numbers](LeetCodeEasy/263UglyNumber.py)<br/>
 [283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)<br/>
 [326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
