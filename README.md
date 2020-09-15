@@ -1,11 +1,11 @@
 # LeetCode_InterviewQuestions
 ### Here are some videos I made...
 #### Youtube
-[876 Middle Of Linked List](https://www.youtube.com/watch?v=lOb8Ylf_-0c)
-[344 Reverse String](https://www.youtube.com/watch?v=aZgcX9oGBXM&t=27s)
+[876 Middle Of Linked List](https://www.youtube.com/watch?v=lOb8Ylf_-0c)<br/>
+[344 Reverse String](https://www.youtube.com/watch?v=aZgcX9oGBXM&t=27s)<br/>
 #### Bilibili
-[876 Middle Of Linked List](https://www.bilibili.com/video/BV1sv411C7Gk/)
-[344 Reverse String](https://www.bilibili.com/video/BV1zv41117TK/)
+[876 Middle Of Linked List](https://www.bilibili.com/video/BV1sv411C7Gk/)<br/>
+[344 Reverse String](https://www.bilibili.com/video/BV1zv41117TK/)<br/>
 
 ### 🤪 1.Normal Easy questions<br/>
 [1] [TwoSum](LeetCodeEasy/1TwoSum.py)<br/>
@@ -47,6 +47,7 @@
 [344] [Reverse String](LeetCodeEasy/344RevserString.py)<br/>
 [349] [Intersection of Two Arrays](LeetCodeEasy/349IntersectionOfTwoArrays.py)<br/>
 [350] [Intersection of Two Arrays II](LeetCodeEasy/350IntersectionOfTwoArraysII.py)<br/>
+[414] [Third Maximum Number](LeetCodeEasy/414ThirdMaximumNumber.py)<br/>
 [912] [Sort An array](LeetCodeEasy/912SortAnArray.py)<br/>
 [1290] [Convert Binary Number In a LinkedList to Integer](LeetCodeEasy/1290ConvertBinaryNumberInALinkedListToInteger.py)<br/>
 [1332] [Remove Panlindromic Subsequences](LeetCodeEasy/1332RemovePalindromicSubsequences.py)</br>
