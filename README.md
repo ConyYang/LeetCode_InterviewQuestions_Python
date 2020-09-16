@@ -40,6 +40,8 @@
 [217] [Contains Duplicates](LeetCodeEasy/217ContainsDuplicates.py)<br/>
 [231] [Power of Two](LeetCodeEasy/231PowerOfTwo.py)<br/>
 [234] [PalindromeLinkedList](LeetCodeEasy/234PalindromeLinkedList.py)<br/>
+[242] [Valid Anagram](LeetCodeEasy/242ValidAnagram.py)<br/>
+[258] [Add Digits](LeetCodeEasy/258AddDigits.py)<br/>
 [263] [Ugly Numbers](LeetCodeEasy/263UglyNumber.py)<br/>
 [283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)<br/>
 [326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
@@ -50,8 +52,8 @@
 [414] [Third Maximum Number](LeetCodeEasy/414ThirdMaximumNumber.py)<br/>
 [912] [Sort An array](LeetCodeEasy/912SortAnArray.py)<br/>
 [1290] [Convert Binary Number In a LinkedList to Integer](LeetCodeEasy/1290ConvertBinaryNumberInALinkedListToInteger.py)<br/>
-[1332] [Remove Panlindromic Subsequences](LeetCodeEasy/1332RemovePalindromicSubsequences.py)</br>
-
+[1332] [Remove Panlindromic Subsequences](LeetCodeEasy/1332RemovePalindromicSubsequences.py)<br/>
+[1550] [Three Consecutive](LeetCodeEasy/1550ThreeConsecutiveOdds.py)<br/>
 
 ### 🤪 2. LeetCodeMedium
 [2] [AddTwoNumbers](LeetCodeMedium/2AddTwoNumbers.py)<br/>
@@ -70,6 +72,7 @@
 [237] [Delete Node In LinkedList](LinkedList/237DeleteNodeInLinkedList.py)<br/>
 [328] [Odd Even LinkedList](LinkedList/328OddEvenLinkedList.py)<br/>
 [876] [Middle Of LinkedList](LinkedList/876MiddleOfLinkedList.py)<br/>
+
 
 ### 🤪 4. Binary Tree
 [98] [Validate Binary Search Tree](BinaryTree/98ValidateBinarySearchTree.py)<br/>
