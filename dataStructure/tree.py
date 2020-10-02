@@ -72,9 +72,81 @@ class Tree(object):
             del_node = parent.left if parent.left.val == val else parent.right
             # if leftsubtree of deleted node is empty
             if del_node.left is None:
-               pass         # TODO: complete this code
+                # if del_node is left child of parent node
+                if parent.left.val == val:
+                    parent.left = del_node.right
+                else:
+                    parent.right = del_node.right
+                del del_node
+                return True
+            # if right subtree of deleted node is empty
+            elif del_node.right is None:
+                # if del_node is left child of parent node
+                if parent.left.val == val:
+                    parent.left = del_node.left
+                # if del_node is right child of parent node
+                else:
+                    parent.right = del_node.left
+                del del_node
+                return True
+            # left and right subtree are both not empty
+            else:
+                tmp_pre = del_node
+                # right sub tree of deleted node
+                tmp_next = del_node.right
+                # find the most left leaf node of right subtree and substitude
+                if tmp_next.left is None:
+                    # substitude
+                    tmp_pre.right = tmp_next.right
+                    tmp_next.left = del_node.left
+                    tmp_next.right = del_node.right
+                else:
+                    # make tmp_next point to left most node of right subtree
+                    while tmp_next.left:
+                        tmp_pre = tmp_next
+                        tmp_next = tmp_next.left
+                    # substitude
+                # if to be deleted node is left child of parent node
+                if parent.left.val == val:
+                    parent.left = tmp_next
+                # if to be deleted node is right child of parent node
+                else:
+                    parent.right = tmp_next
+                del del_node
+                return Tree
+        else:
+            return False
 
-            
-                    
-                    
+    def inorder(self, node):
+        if node is None:
+            return []
+        result = [node.val]
+        left_item = self.inorder(node.left)
+        right_item = self.inorder(node.right)
+        return left_item + result + right_item
+
+    def postoder(self, node):
+        if node is None:
+            return []
+        result = [node.val]
+        left_item = self.inorder(node.left)
+        right_item = self.inorder(node.right)
+        return left_item + right_item + result
+
+    def preorder(self, node):
+        if node is None:
+            return []
+        result = [node.val]
+        left_item = self.inorder(node.left)
+        right_item = self.inorder(node.right)
+        return result + left_item + right_item
+
+
+if __name__ == '__main__':
+    t = Tree()
+    for i in range(1, 11):
+        t.add(i)
+    print('Inorder traverse: ', t.inorder(t.root))
+    print('Preorder traverse: ', t.preorder(t.root))
+    print('Postorder traverse: ', t.postoder(t.root))
 
