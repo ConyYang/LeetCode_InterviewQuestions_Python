@@ -2,3 +2,5 @@
 venv/
 
 test.py
+/test/roads.py
+/test/blackjack.py
