@@ -6,12 +6,7 @@ history = [("Jason", "Gideon", -3),
            ("Darren", "Jason", -5),
            ("Jason", "Vivian", -6)]
 
-history_reverse = [("Gideon", "Jason",  -3),
-           ("Yacob", "Zac", -3),
-           ("Brian", "Gideon", -1),
-           ("Gideon", "Cindy", -2),
-           ("Jason", "Darren", -5),
-           ("Vivian", "Jason" -6)]
+
 
 
 # 存一个新的dictionary 对于每个人存一个 遇见的人的tuple list
@@ -84,6 +79,19 @@ history_reverse = [("Gideon", "Jason",  -3),
 # current_infected_people为空， 循环结束
 # return 删掉Jason的infected_people = ["Darren", "Gideon", "Brain"]
 
+def create_dictionary(history):
+    dict_history = {}
+    for row in history:
+        if row[0] not in dict_history.keys():
+            dict_history[row[0]] = (row[1], row[2])
+    for row in history:
+        if row[1] not in dict_history.keys():
+            dict_history[row[1]] = (row[0], row[2])
+    return dict_history
+
+
+dict_history = create_dictionary(history)
+
 
 def trace_contacts(patient:str, history: list):
     """
@@ -92,6 +100,21 @@ def trace_contacts(patient:str, history: list):
     :param history: (list)  list of tuples that stores the meeting history of people in the community.
     :return:
     """
+    curr_infected_people = [patient]
     infected_people = []
+    dict_history = create_dictionary(history)
+    while curr_infected_people:
+        meeted_people = dict_history[curr_infected_people[0]]
+        for people in meeted_people:
+            print(people)
+            if people[0] not in infected_people and (people[1] - (-7))>1:
+                curr_infected_people.append(people[0])
+        curr_infected_people.remove(curr_infected_people[0])
+        infected_people.append(curr_infected_people[0])
 
+    infected_people.remove(patient)
     return infected_people
+
+
+infected_people = trace_contacts("Jason", history)
+print(infected_people)
