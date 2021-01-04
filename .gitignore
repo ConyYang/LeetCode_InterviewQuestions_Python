@@ -1,6 +1,4 @@
 .idea
 venv/
 
-test.py
-/test/roads.py
-/test/blackjack.py
+__pycache__/
