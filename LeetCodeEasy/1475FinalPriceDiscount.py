@@ -7,6 +7,6 @@ class Solution(object):
         for i in range (len(prices)-1):
             for a in prices[i + 1:]:
                 if a <= prices[i]:
+                    prices[i] -= a
                     break
-            prices[i] -= a
         return prices
