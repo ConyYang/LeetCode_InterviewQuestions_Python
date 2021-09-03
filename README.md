@@ -28,7 +28,6 @@
 [122] [Best Time to Buy and Sell Stock II](LeetCodeEasy/122BestTimeToBuySellStock.py)<br/>
 [125] [Valid Palindrome](LeetCodeEasy/125ValidPalindrome.py)<br/>
 [136] [Single Number](LeetCodeEasy/136SingleNumber.py)<br/>
-[141] [Linked List Cycle](LeetCodeEasy/141LinkedListCycle.py)<br/>
 [155] [Min Stack](LeetCodeEasy/155MinStack.py)<br/>
 [167] [Two Sum Sorted Array](LeetCodeEasy/167TwoSumSortedArray.py)<br/>
 [168] [Excel Sheet Column](LeetCodeEasy/168ExcelSheetColumn.py)<br/>
@@ -44,26 +43,39 @@
 [258] [Add Digits](LeetCodeEasy/258AddDigits.py)<br/>
 [263] [Ugly Numbers](LeetCodeEasy/263UglyNumber.py)<br/>
 [283] [Move Zeros](LeetCodeEasy/283MoveZeros.py)<br/>
+[290] [Word Pattern](LeetCodeEasy/290WordPattern.py)<br/>
 [326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
 [342] [Power Of Four](LeetCodeEasy/342PowerOfFour.py)<br/>
 [344] [Reverse String](LeetCodeEasy/344RevserString.py)<br/>
 [349] [Intersection of Two Arrays](LeetCodeEasy/349IntersectionOfTwoArrays.py)<br/>
 [350] [Intersection of Two Arrays II](LeetCodeEasy/350IntersectionOfTwoArraysII.py)<br/>
 [414] [Third Maximum Number](LeetCodeEasy/414ThirdMaximumNumber.py)<br/>
+[463] [Island Perimeter](LeetCodeEasy/463IslandPerimeter.py)<br/>
 [912] [Sort An array](LeetCodeEasy/912SortAnArray.py)<br/>
 [1290] [Convert Binary Number In a LinkedList to Integer](LeetCodeEasy/1290ConvertBinaryNumberInALinkedListToInteger.py)<br/>
 [1332] [Remove Panlindromic Subsequences](LeetCodeEasy/1332RemovePalindromicSubsequences.py)<br/>
+[1475] [Final Price Discount](LeetCodeEasy/1475FinalPriceDiscount.py)<br/>
 [1550] [Three Consecutive](LeetCodeEasy/1550ThreeConsecutiveOdds.py)<br/>
 
 ### 🤪 2. LeetCodeMedium
 [2] [AddTwoNumbers](LeetCodeMedium/2AddTwoNumbers.py)<br/>
 [11] [Container With Most Water](LeetCodeMedium/11ContainerWithMostWater.py)<br/>
-
+[21] [Three Sum](LeetCodeMedium/21ThreeSum.py)<br/>
+[56] [Merge Intervals](LeetCodeMedium/56MergeIntervals.py)<br/>
+[120] [Path Sum](LeetCodeMedium/120PathSum.py)<br/>
+[150] [Evaluate Reverse Polish Notation](LeetCodeMedium/150EvalReversePolishN.py)<br/>
+[165] [Compare Version Numbers](LeetCodeMedium/165CompareVersionNumbers.py)<br/>
+[216] [Combination Sum](LeetCodeMedium/216CombinationSum.py)<br/>
+[560] [Subarray Sum K](LeetCodeMedium/560SubarraySumK.py)<br/>
+[684] [Redundant Connection](LeetCodeMedium/684RedudantConnection.py)<br/>
+[735] [Asteriod Collision](LeetCodeMedium/735AsteroidCollision.py)<br/>
+[1616] [Split Panlindrome](LeetCodeMedium/1616SplitPalindrome.py)<br/>
 
 ### 🤪 3. LinkedList
 [21] [Merge Two Sorted List](LinkedList/21MergeTwoSortedList.py)<br/>
 [24] [SwapNodesInPairs](LinkedList/24SwpNodesInPairs.py)<br/>
 [83] [Remove Duplicates from sorted list](LinkedList/83RemoveDuplicatesSortedList.py)<br/>
+[141] [Linked List Cycle](LinkedList/141LinkedListCycle.py)<br/>
 [148] [Sort List](LinkedList/148SortList.py)<br/>
 [160] [Intersection Of Two Linked List](LinkedList/160IntersectionOfTwoLinkedList.py)<br/>
 [203] [Remove Linked List Elements](LinkedList/203RemoveLinkedListElements.py)<br/>
@@ -86,34 +98,50 @@
 [112] [Path Sum](BinaryTree/112PathSum.py)<br/>
 [113] [Path Sum II](BinaryTree/113PathSumII.py)<br/>
 [226] [Invert Binary Tree](BinaryTree/226InvertBinaryTree.py)<br/>
-[965] [UnivaluedBinaryTree]( BinaryTree/226InvertBinaryTree.py)<br/>
+[437] [PathSumIII](BinaryTree/437PathSumIII.py)<br/>
+[530] [Minimum Absolute Difference in BST](BinaryTree/530MinAbsDiffTreeBST.py)<br/>
+[617] [Merge Binary Tree](BinaryTree/617MergeBinaryTree.py)<br/>
+[637] [Average of Levels in Binary Tree](BinaryTree/637AverageLevelsBT.py)<br/>
+[965] [Univalued BinaryTree](BinaryTree/965UnivaluedBinaryTree.py)<br/>
 
+### 🤪 5. HashTable
+[139] [Word Break](HashTable/139WordBreak.py)
 
-
-### 🤪 5. Search
+### 🤪 6. Search
 [17] [Letter Combination of phone number](Search/17LetterCombinationOfPhoneNumber.py)<br/>
 [39] [Combination Sum](Search/39CombinationSum.py)<br/>
 [200] [NumberOfIslands](Search/200NumberOfIslands.py)<br/>
+[207] [Course Schedule](Search/207CourseSchedule.py)<br/>
 [540] [Single Elements In A sorted Array](Search/540SingleElementInASortedArray.py)<br/>
 [704] [Binary Search](Search/704BinarySearch.py)<br/>
 
-### 🤪 6. Dynamic Programming
+### 🤪 7. Dynamic Programming
 [5] [Longest Palindromic Substring](DynamicProgramming/5LongestPalindromicSubstring.py)<br/>
 [198] [House Robber](DynamicProgramming/198HouseRobber.py)<br/>
- 
-### 🤪 7. Illustration
-#### - Data Structure
-   - [Linked List](dataStructure/linkedList.py)
-   - [Double Linked List](dataStructure/doubleLinkedLIst.py)
-   - [Binary Search Tree](dataStructure/binarySearchTree.py)
-   - [Stack](LeetCodeEasy/155MinStack.py)
-   - [queue](dataStructure/queue.py)
-#### - Classical Search
+[1043] [Partition Array For Max Sum](DynamicProgramming/1043PartitionArrayforMaxSum.py)</br>
+
+### 🤪 9. Sliding Window
+[1838] [Frequency of most frequent element](slidingWindow/1838freqOfMostFreqElement.py)</br>
+
+
+### 🤪 10. Illustration
+#### - Data Structure</br>
+- [Binary Search Tree](dataStructure/binarySearchTree.py)</br>
+- [Double Linked List](dataStructure/doubleLinkedLIst.py)</br>
+- [Heap](dataStructure/heap.py)<br/>
+- [Linked List](dataStructure/linkedList.py)</br>
+- [Stack](LeetCodeEasy/155MinStack.py)</br>
+- [Tree](dataStructure/tree.py)<br/>
+- [Trie Node](dataStructure/trieNode.py)<br>
+- [queue](dataStructure/queue.py)</br>
+#### - Classical Sort
+   - [Heap Sort](ClassicalSort/heapsort.py)
    - [Insertion Sort](ClassicalSort/InsertionSort.py)
    - [Bubble Sort](ClassicalSort/BubbleSort.py)
    - [Selection Sort](ClassicalSort/SelectionSort.py)
    - [Merge Sort](ClassicalSort/MergeSort.py)
    - [Quick Sort](ClassicalSort/QuickSort.py)
+
 #### - SQL commands
    - [A summary of useful commands](SQL)
 
