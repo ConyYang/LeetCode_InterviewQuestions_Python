@@ -12,3 +12,5 @@ class Solution(object):
                     list_a[i] = False
 
         return len([element for element in list_a[2:] if element])
+
+

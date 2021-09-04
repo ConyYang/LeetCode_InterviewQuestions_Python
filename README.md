@@ -63,6 +63,7 @@
 [21] [Three Sum](LeetCodeMedium/21ThreeSum.py)<br/>
 [56] [Merge Intervals](LeetCodeMedium/56MergeIntervals.py)<br/>
 [120] [Path Sum](LeetCodeMedium/120PathSum.py)<br/>
+[146] [LRU Cache](LeetCodeMedium/146LRUCache.py)<br/>
 [150] [Evaluate Reverse Polish Notation](LeetCodeMedium/150EvalReversePolishN.py)<br/>
 [165] [Compare Version Numbers](LeetCodeMedium/165CompareVersionNumbers.py)<br/>
 [216] [Combination Sum](LeetCodeMedium/216CombinationSum.py)<br/>
@@ -76,6 +77,7 @@
 [24] [SwapNodesInPairs](LinkedList/24SwpNodesInPairs.py)<br/>
 [83] [Remove Duplicates from sorted list](LinkedList/83RemoveDuplicatesSortedList.py)<br/>
 [141] [Linked List Cycle](LinkedList/141LinkedListCycle.py)<br/>
+[142] [Linked List Cycle II](LinkedList/142LinkedListCycleII.py)<br/>
 [148] [Sort List](LinkedList/148SortList.py)<br/>
 [160] [Intersection Of Two Linked List](LinkedList/160IntersectionOfTwoLinkedList.py)<br/>
 [203] [Remove Linked List Elements](LinkedList/203RemoveLinkedListElements.py)<br/>
@@ -104,27 +106,43 @@
 [637] [Average of Levels in Binary Tree](BinaryTree/637AverageLevelsBT.py)<br/>
 [965] [Univalued BinaryTree](BinaryTree/965UnivaluedBinaryTree.py)<br/>
 
-### 🤪 5. HashTable
-[139] [Word Break](HashTable/139WordBreak.py)
+### 🤪 5. DFS
+[547] [Number of Pri=]
 
 ### 🤪 6. Search
 [17] [Letter Combination of phone number](Search/17LetterCombinationOfPhoneNumber.py)<br/>
+[34] [Find First and Last Position of Element in Sorted Array](Search/34FindFirstLastPosElementSortedArray.py)<br/>
 [39] [Combination Sum](Search/39CombinationSum.py)<br/>
 [200] [NumberOfIslands](Search/200NumberOfIslands.py)<br/>
 [207] [Course Schedule](Search/207CourseSchedule.py)<br/>
 [540] [Single Elements In A sorted Array](Search/540SingleElementInASortedArray.py)<br/>
 [704] [Binary Search](Search/704BinarySearch.py)<br/>
 
-### 🤪 7. Dynamic Programming
+### 🤪 7. Sort
+[75] [Sort Colors](Sort/75SortColors.py)
+[347] [Top K Frequent Elements](Sort/347TopKFreqElements.py)<br/>
+[451] [Sort Characters by Frequenct](Sort/451SortCharactersFreq.py)</br>
+[692] [Top K Frequent Words](Sort/692TopKFreqWords.py)
+
+
+### 🤪 8. Dynamic Programming
 [5] [Longest Palindromic Substring](DynamicProgramming/5LongestPalindromicSubstring.py)<br/>
+[72] [Edit Distance](DynamicProgramming/72EditDistance.py)<br/>
 [198] [House Robber](DynamicProgramming/198HouseRobber.py)<br/>
 [1043] [Partition Array For Max Sum](DynamicProgramming/1043PartitionArrayforMaxSum.py)</br>
 
 ### 🤪 9. Sliding Window
 [1838] [Frequency of most frequent element](slidingWindow/1838freqOfMostFreqElement.py)</br>
 
+### 🤪 10. Sliding Window
+[455] [Assign Cookies](Greedy/455AssignCookies.py)<br/>
+[665] [Non-Decreasing Array](Greedy/665NonDecreasingArray.py)
 
-### 🤪 10. Illustration
+
+### 🤪 11. Hash Table
+[139] [Word Break](HashTable/139WordBreak.py)
+
+### 🤪 11. Illustration
 #### - Data Structure</br>
 - [Binary Search Tree](dataStructure/binarySearchTree.py)</br>
 - [Double Linked List](dataStructure/doubleLinkedLIst.py)</br>
