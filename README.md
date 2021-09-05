@@ -129,6 +129,8 @@
 [5] [Longest Palindromic Substring](DynamicProgramming/5LongestPalindromicSubstring.py)<br/>
 [72] [Edit Distance](DynamicProgramming/72EditDistance.py)<br/>
 [198] [House Robber](DynamicProgramming/198HouseRobber.py)<br/>
+[300] [Longest Increasing Subsequence](DynamicProgramming/300LongestIncreasingSubsequence.py)<br/>
+[416] [Partition Equal Subset Sum](DynamicProgramming/416PartitionEqualSubsetSUm.py)<br/>
 [1043] [Partition Array For Max Sum](DynamicProgramming/1043PartitionArrayforMaxSum.py)</br>
 
 ### 🤪 9. Sliding Window
