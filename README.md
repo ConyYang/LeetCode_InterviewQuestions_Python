@@ -67,9 +67,11 @@
 [150] [Evaluate Reverse Polish Notation](LeetCodeMedium/150EvalReversePolishN.py)<br/>
 [165] [Compare Version Numbers](LeetCodeMedium/165CompareVersionNumbers.py)<br/>
 [216] [Combination Sum](LeetCodeMedium/216CombinationSum.py)<br/>
+[502] [Next Greater ElementII](LeetCodeMedium/502NextGreaterElementII.py)<br/>
 [560] [Subarray Sum K](LeetCodeMedium/560SubarraySumK.py)<br/>
 [684] [Redundant Connection](LeetCodeMedium/684RedudantConnection.py)<br/>
 [735] [Asteriod Collision](LeetCodeMedium/735AsteroidCollision.py)<br/>
+[739] [Daily Temperature](LeetCodeMedium/739DailyTemperature.py)<br/>
 [1616] [Split Panlindrome](LeetCodeMedium/1616SplitPalindrome.py)<br/>
 
 ### 🤪 3. LinkedList
