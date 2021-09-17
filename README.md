@@ -117,6 +117,7 @@
 [17] [Letter Combination of phone number](Search/17LetterCombinationOfPhoneNumber.py)<br/>
 [34] [Find First and Last Position of Element in Sorted Array](Search/34FindFirstLastPosElementSortedArray.py)<br/>
 [39] [Combination Sum](Search/39CombinationSum.py)<br/>
+[74] [Search Matrix](Search/74searchMatrix.py)<br/>
 [200] [NumberOfIslands](Search/200NumberOfIslands.py)<br/>
 [207] [Course Schedule](Search/207CourseSchedule.py)<br/>
 [540] [Single Elements In A sorted Array](Search/540SingleElementInASortedArray.py)<br/>
