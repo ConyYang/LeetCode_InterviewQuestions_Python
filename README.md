@@ -47,11 +47,13 @@
 [326] [Power of Three](LeetCodeEasy/326PowerOfThree.py)<br/>
 [342] [Power Of Four](LeetCodeEasy/342PowerOfFour.py)<br/>
 [344] [Reverse String](LeetCodeEasy/344RevserString.py)<br/>
+[1071] [Greatest Common Divisor of String](LeetCodeEasy/1071GreatestCommonDivisorOfString.py)<br/>
 [349] [Intersection of Two Arrays](LeetCodeEasy/349IntersectionOfTwoArrays.py)<br/>
 [350] [Intersection of Two Arrays II](LeetCodeEasy/350IntersectionOfTwoArraysII.py)<br/>
 [414] [Third Maximum Number](LeetCodeEasy/414ThirdMaximumNumber.py)<br/>
 [463] [Island Perimeter](LeetCodeEasy/463IslandPerimeter.py)<br/>
 [912] [Sort An array](LeetCodeEasy/912SortAnArray.py)<br/>
+[1002] [Find Common Characters](LeetCodeEasy/1002FindCommonCharacters.py)<br/>
 [1290] [Convert Binary Number In a LinkedList to Integer](LeetCodeEasy/1290ConvertBinaryNumberInALinkedListToInteger.py)<br/>
 [1332] [Remove Panlindromic Subsequences](LeetCodeEasy/1332RemovePalindromicSubsequences.py)<br/>
 [1475] [Final Price Discount](LeetCodeEasy/1475FinalPriceDiscount.py)<br/>
@@ -133,7 +135,8 @@
 [198] [House Robber](DynamicProgramming/198HouseRobber.py)<br/>
 [300] [Longest Increasing Subsequence](DynamicProgramming/300LongestIncreasingSubsequence.py)<br/>
 [416] [Partition Equal Subset Sum](DynamicProgramming/416PartitionEqualSubsetSUm.py)<br/>
-[1043] [Partition Array For Max Sum](DynamicProgramming/1043PartitionArrayforMaxSum.py)</br>
+[1043] [Partition Array For Max Sum](DynamicProgramming/1043PartitionArrayforMaxSum.py)<br/>
+[1143] [Longest Common Subsequence](DynamicProgramming/1143LongestCommonSubsequence.py)<br/>
 
 ### 🤪 9. Sliding Window
 [239] [Sliding Window Maximum](slidingWindow/239SlidingWindowMaximum.py)
