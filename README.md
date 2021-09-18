@@ -155,12 +155,17 @@
 #### - Data Structure</br>
 - [Binary Search Tree](dataStructure/binarySearchTree.py)</br>
 - [Double Linked List](dataStructure/doubleLinkedLIst.py)</br>
+
 - [Heap](dataStructure/heap.py)<br/>
+- [MaxHeap](dataStructure/heap.py)<br/>
+- [Heapq Illustration](dataStructure/heapqIllustration.py)<br/>
+  
 - [Linked List](dataStructure/linkedList.py)</br>
 - [Stack](LeetCodeEasy/155MinStack.py)</br>
 - [Tree](dataStructure/tree.py)<br/>
 - [Trie Node](dataStructure/trieNode.py)<br>
 - [queue](dataStructure/queue.py)</br>
+
 #### - Classical Sort
    - [Heap Sort](ClassicalSort/heapsort.py)
    - [Insertion Sort](ClassicalSort/InsertionSort.py)
