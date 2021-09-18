@@ -153,6 +153,7 @@
 
 ### 🤪 11. Illustration
 #### - Data Structure</br>
+- [Note](dataStructure/binarySearchTree.py)</br>
 - [Binary Search Tree](dataStructure/binarySearchTree.py)</br>
 - [Double Linked List](dataStructure/doubleLinkedLIst.py)</br>
 
