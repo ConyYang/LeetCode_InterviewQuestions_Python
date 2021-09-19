@@ -75,10 +75,13 @@
 [735] [Asteriod Collision](LeetCodeMedium/735AsteroidCollision.py)<br/>
 [739] [Daily Temperature](LeetCodeMedium/739DailyTemperature.py)<br/>
 [1616] [Split Panlindrome](LeetCodeMedium/1616SplitPalindrome.py)<br/>
+### LeetCode Hard
+[42] [Trapping Rain Water](LeetCodeHard/42TrappingRainWater.py)<br/>
 
 ### 🤪 3. LinkedList
 [21] [Merge Two Sorted List](LinkedList/21MergeTwoSortedList.py)<br/>
 [24] [SwapNodesInPairs](LinkedList/24SwpNodesInPairs.py)<br/>
+[25] [Reverse Nodes in K-Group](LinkedList/25ReverseNodeInK.py)<br/>
 [83] [Remove Duplicates from sorted list](LinkedList/83RemoveDuplicatesSortedList.py)<br/>
 [141] [Linked List Cycle](LinkedList/141LinkedListCycle.py)<br/>
 [142] [Linked List Cycle II](LinkedList/142LinkedListCycleII.py)<br/>
